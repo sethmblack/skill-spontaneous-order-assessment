@@ -3,8 +3,9 @@ name: spontaneous-order-assessment
 description: Distinguish between designed order and emergent order in any system, and identify what rules would enable beneficial spontaneous coordination.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.5038
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - spontaneous-order-assessment
 - writing
